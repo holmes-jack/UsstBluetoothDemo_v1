@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/build/intermediates/res/merged/debug/drawable-hdpi/logo_big.png",
+        "source": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/src/main/res/drawable-hdpi/logo_big.png"
+    },
+    {
+        "merged": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/build/intermediates/res/merged/debug/drawable-hdpi/logo_main2.png",
+        "source": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/src/main/res/drawable-hdpi/logo_main2.png"
+    },
+    {
+        "merged": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/build/intermediates/res/merged/debug/drawable-hdpi/logo_main_text.png",
+        "source": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/src/main/res/drawable-hdpi/logo_main_text.png"
+    },
+    {
+        "merged": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/build/intermediates/res/merged/debug/drawable-hdpi/logo_main.png",
+        "source": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/src/main/res/drawable-hdpi/logo_main.png"
+    }
+]

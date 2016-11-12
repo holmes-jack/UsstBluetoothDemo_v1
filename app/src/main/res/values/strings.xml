@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothDemo</string>
+    <string name="btn_col">显示数据</string>
+    <string name="btn_val">蓝牙连接</string>
+
+    <string name="text_control_logo">ANO USST </string>
+
+
+    <!--  BluetoothJoystick -->
+    <string name="title_connected_to">connected to:</string>
+    <string name="title_connecting">connecting</string>
+    <string name="title_not_connected">not connected</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth JoyStick.</string>
+    <string name="not_connected">You are not connected to a device</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>4
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="connect">connect</string>
+    <string name="about">about</string>
+    <string name="usst">USST</string>
+    <string name="closeprogram">关闭程序？</string>
+    <string name="title_activity_activity_control">Activity Display</string>
+    <string name="displayIX">int型数据x</string>
+    <string name="displayIY">int型数据y</string>
+    <string name="displayIZ">int型数据z</string>
+
+
+</resources>

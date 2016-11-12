@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/build/intermediates/res/merged/debug/layout/activity_btdevicelist.xml",
+        "source": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/src/main/res/layout/activity_btdevicelist.xml"
+    },
+    {
+        "merged": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/build/intermediates/res/merged/debug/layout/activity_control.xml",
+        "source": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/src/main/res/layout/activity_control.xml"
+    },
+    {
+        "merged": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yanzheng/StudioProjects/UsstBluetoothDemo_v1/app/src/main/res/layout/activity_main.xml"
+    }
+]
